@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Razia Sultana Misu
-I'm a researcher in machine learning. I'm also a developer for Next.js and blockchain projects. 
+I'm a researcher in machine learning and also a developer for Next.js and blockchain projects. 
 
 Skills: NEXT.JS/ REACT / BOOTSTRAP/ JS / HTML / CSS/ BLOCKCHAIN/ PYTHON/ JAVA/ SOLIDITY
 
